@@ -4,7 +4,8 @@ Building a docker python project-Rock Paper Scissors Game
 ## 1) Created  a customized docker container from python that deploys a simple rock paper scissors game python script.
 
 ## 2) Github contents:
-Makefile
+-Makefile
+
 -Requirements.txt
 
 -Game.py (RPS Game)
