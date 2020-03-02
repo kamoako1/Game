@@ -12,6 +12,7 @@ Building a docker python project-Rock Paper Scissors Game
 
 -Push-Docker.sh
 
+-Dockerfile
 ## 3) Pushed image to DockerHub: https://hub.docker.com/r/kail2/rpsgame
 
 Lastly, pulled the image down and ran on chosen cloud platform cloud shell: AWS Cloud9.
