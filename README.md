@@ -6,7 +6,9 @@ Building a docker python project-Rock Paper Scissors Game
 ## 2) Github contents:
 Makefile
 -Requirements.txt
+
 -Game.py (RPS Game)
+
 -Push-Docker.sh
 
 ## 3) Pushed image to DockerHub: https://hub.docker.com/r/kail2/rpsgame
